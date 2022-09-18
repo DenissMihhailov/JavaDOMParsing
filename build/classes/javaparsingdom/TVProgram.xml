@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <channels>
+        <channel name="ETV+">
+            <logo>https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1862448/YD4Z7QSLs2CwSWaL3yyQ.jpg</logo>
+            <programs>
+                <program title="Klass">
+                    <image>https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1862448/YD4Z7QSLs2CwSWaL3yyQ.jpg</image>
+                    <date>12.09.2022</date>
+                    <timeS>22:20</timeS>
+                    <timeF>00:00</timeF>
+                    <age>18+</age>
+                    <category>Film</category>
+                    <description>Tavaline eesti kool, lõpuklass. Kutt nimega Joseph talub pidevalt klassikaaslaste naeru ja mõnitamist. Kordagi vastamata jamadele, provotseerib ta neid aina rohkem lollideks naljadeks, kuni üks endistest irvitajatest Kaspar tema eest välja astub. Klassis algab vastasseis, mis tasapisi kuumeneb, lähenedes vältimatule lõpule...</description>
+                </program>
+                <program title="Eesti kuulsad inimesed">
+                    <image>https://s.err.ee/photo/crop/2021/08/27/1124192h3f31t7.png</image>
+                    <date>14.09.2022</date>
+                    <timeS>15:00</timeS>
+                    <timeF>16:00</timeF>
+                    <age>6+</age>
+                    <category>Telesari</category>
+                    <description>Sari eesti kultuuri rajajatest: ülevaade eluloost, panus kultuuri arengusse ja elunägemus. Teises saates räägitakse arstist, kirjanikust ja folkloristist Friedrich Robert Felmanist.</description>
+                </program>
+                <program title="USA ja Eesti: pidevate suhete sajand">
+                    <image>https://f11.pmo.ee/IndMju6_HHHPZ95sHUWNoMx-uMs=/1200x630/filters:focal(436x277:1441x523)/nginx/o/2022/06/15/14627140t1h4d71.jpg</image>
+                    <date>12.09.2022</date>
+                    <timeS>17:20</timeS>
+                    <timeF>18:00</timeF>
+                    <age>6+</age>
+                    <category>Saade</category>
+                    <description>28. juulil 1922 tunnustasid Ameerika Ühendriigid Eesti Vabariigi uut valitsust. Miks vajas noor iseseisev riik nii väga võimu tunnustamist ja kuidas USA mõjutas Eesti iseseisvuse taastamist ligi 70 aastat hiljem? Miks on kahe riigi suhete uus sajand Eesti jaoks nii oluline?</description>
+                </program>
+                <program title="Võta rahulikult, rahune maha!">
+                    <image>https://img1.eadaily.com/c640x394/o/001/f60c8e2ffb95da8544ac8ff04635f.jpg</image>
+                    <date>15.09.2022</date>
+                    <timeS>13:20</timeS>
+                    <timeF>14:30</timeF>
+                    <age>12+</age>
+                    <category>Telesari</category>
+                    <description>Saatesari kaitseväe ajateenistusest. Tagakülg ajateenijate elust kasarmus ja metsas. Ajateenistuse viimased päevad - viimane loendus. Aeg on peatunud, sõdurid on väsinud ja tahavad koju. Mida nad edasi teevad, kuidas nende teenistus arenes ja milliseid järeldusi nad tegid. Edu ja pettumused – aeg teha kokkuvõtteid.</description>
+                </program>
+                <program title="Tegelik kaamera">
+                    <image>https://s.err.ee/photo/crop/2021/11/01/1202276h2bd2t2.jpg</image>
+                    <date>16.09.2022</date>
+                    <timeS>20:20</timeS>
+                    <timeF>21:00</timeF>
+                    <age>14+</age>
+                    <category>Näidata</category>
+                    <description>Aktuaalne kaamera is an Estonian television news program broadcast by Eesti Televisioon. The first AK program went on the air on March 11, 1956. Thus, AK is the oldest continuously broadcast television program in Estonia. Since October 1958, AK has been broadcast daily.</description>
+                </program>
+            </programs>
+        </channel>
+        <channel name="Первый канал">
+            <logo>https://s.err.ee/photo/crop/2021/08/27/1124192h3f31t7.png</logo>
+            <programs>
+                <program title="Золотая орда">
+                    <image>https://static.1tv.ru/uploads/video/material/splash/2022/08/17/739890/big/739890_big_d369dfa55f.jpg</image>
+                    <date>22.09.2022</date>
+                    <timeS>18:00</timeS>
+                    <timeF>19:40</timeF>
+                    <age>16+</age>
+                    <category>Сериал</category>
+                    <description>Монгольский хан Берке стар, но у него все еще нет сына-наследника, и поэтому он сильно озабочен судьбой своего государства. Берке докладывают, что персидский хан Хулагу собирает армию, чтобы пойти войной против монголов. </description>
+                </program>
+                <program title="Мосгаз. Дело №8: Западня">
+                    <image>https://static.1tv.ru/uploads/photo/image/2021/11/09/13793/large/13793_large_ef7bb6913a.jpg</image>
+                    <date>20.09.2021</date>
+                    <timeS>17:30</timeS>
+                    <timeF>17:45</timeF>
+                    <age>16+</age>
+                    <category>Сериал</category>
+                    <description>В новых сериях антологии майору Черкасову и его коллегам предстоит распутывать череду убийств, связанных с недавно освободившимся бандитом Черепом. Доказать его вину невозможно, но при этом и невиновность — под большим сомнением: как будто кто-то невидимый постоянно спасает Черепа от гибели, расчищая ему дорогу. Но кто в этом может быть заинтересован? Черкасов попадает в замкнутый круг убийств и спасений.</description>
+                </program>
+                <program title="Петр Первый">
+                    <image>https://static.1tv.ru/uploads/video/material/splash/2022/06/14/729928/little/729928_little_cb85fd18d9.jpg</image>
+                    <date>12.09.2022</date>
+                    <timeS>18:00</timeS>
+                    <timeF>21:35</timeF>
+                    <age>16+</age>
+                    <category>Художественный фильм</category>
+                    <description>Конец XVII — начало XVIII столетия. Период становления Великой Российской Империи, время крупных реформ и тайных заговоров, великих воинских побед и дворцовых переворотов, безудержного веселья ассамблей и жестокого кровопролития казней. Время бурной государственной деятельности преобразователя России XVIII века — царя Петра Первого.</description>
+                </program>
+                <program title="Грех">
+                    <image>https://static.1tv.ru/uploads/video/material/splash/2022/08/20/740506/little/740506_little_63981861ba.jpg</image>
+                    <date>14.09.2022</date>
+                    <timeS>20:00</timeS>
+                    <timeF>22:05</timeF>
+                    <age>16+</age>
+                    <category>Художественный фильм</category>
+                    <description>Флоренция, начало XVI века. Микеланджело Буонарроти, которого уже при жизни современники считали гением, живет в нищете, обессиленный работой над сводом Сикстинской капеллы. Когда заказчик работ – Папа Римский Юлий II, глава влиятельного семейства Делла Ровере, – внезапно умирает, Микеланджело становится одержим идеей найти самый лучший мрамор для постройки его гробницы. </description>
+                </program>
+                <program title="За последней чертой">
+                    <image>https://static.1tv.ru/uploads/video/material/splash/2022/09/04/742704/little/742704_little_54903470fb.jpg</image>
+                    <date>18.09.2022</date>
+                    <timeS>19.00</timeS>
+                    <timeF>20.40</timeF>
+                    <age>18+</age>
+                    <category>Художественный фильм</category>
+                    <description>Прославленный боксер оказывается выброшенным за борт жизни. Судьба не оставляет ему выбора: он связывается с преступной бандой. Но есть черта, которую он не в состоянии переступить. И герой решается на отчаянный шаг…</description>
+                </program>
+            </programs>
+        </channel>
+        <channel name="Freeform">
+            <logo>https://static.1tv.ru/uploads/photo/image/2021/11/09/13793/large/13793_large_ef7bb6913a.jpg</logo>
+            <programs>
+                <program title="Baby Daddy">
+                    <image>https://cdn1.edgedatg.com/aws/v2/abcf/BabyDaddy/video/101/1831914db5f0344fdf281d3d207c3c22/579x325-Q100.jpg</image>
+                    <date>21.06.2022</date>
+                    <timeS>19:00</timeS>
+                    <timeF>19:25</timeF>
+                    <age>16+</age>
+                    <category>Show</category>
+                    <description>Ben, a young man in his early 20s, lives the life of a bachelor in New York City with his buddy, Tucker, and his brother, Danny. Their lives are turned upside down when they come home one day to find a baby girl left on the doorstep by an ex-girlfriend of Bens. After much deliberation, Ben decides to raise the baby with the help of his friends and his protective, and sometimes over-bearing mother, Bonnie, and his close female friend, Riley.</description>
+                </program>
+                <program title="Good Trouble">
+                    <image>https://cdn1.edgedatg.com/aws/v2/abcf/GoodTrouble/showimages/5d1dab12106dd1201333696c46ff9b9a/227x303-Q80_5d1dab12106dd1201333696c46ff9b9a.jpg</image>
+                    <date>16.09.2022</date>
+                    <timeS>16.30</timeS>
+                    <timeF>17.15</timeF>
+                    <age>18+</age>
+                    <category>Show</category>
+                    <description>Callie and Mariana have graduated and moved to downtown Los Angeles. The sisters navigate love, sex, and the complicated relationships that come with living in a new city in your 20s.</description>
+                </program>
+                <program title="The Secret life of the American teenager">
+                    <image>https://cdn1.edgedatg.com/aws/v2/abcf/TheSecretLifeoftheAmericanTeenager/showimages/d5ab3b5689e66e5a37d3300536e6c2ee/227x303-Q80_d5ab3b5689e66e5a37d3300536e6c2ee.jpg</image>
+                    <date>13.09.2022</date>
+                    <timeS>19.15</timeS>
+                    <timeF>20.00</timeF>
+                    <age>16+</age>
+                    <category>Show</category>
+                    <description>Amy Juergens is an ambitious and musically-talented high-school student when her life is forever changed by a Band Camp fling with the handsome and popular Ricky Underwood. Follow Amy, Ricky, and their close-knit families and friends at Grant High School as they wrestle with Amys unplanned pregnancy and other secrets.</description>
+                </program>
+                <program title="Shadow Hunters">
+                    <image>https://cdn1.edgedatg.com/aws/v2/abcf/Shadowhunters/showimages/09ca394fbb20889990567b033a6c5d6a/227x303-Q80_09ca394fbb20889990567b033a6c5d6a.jpg</image>
+                    <date>17.09.2022</date>
+                    <timeS>17.45</timeS>
+                    <timeF>18.30</timeF>
+                    <age>16+</age>
+                    <category>Show</category>
+                    <description>18-year-old Clary Fray, who finds out on her birthday that she is not who she thinks she is but rather comes from a long line of Shadowhunters – human-angel hybrids who hunt down demons. When her mother, Jocelyn, is kidnapped, Clary is thrown into the world of demon hunting with mysterious Shadowhunter Jace and her best friend, Simon. Now living among faeries, warlocks, vampires and werewolves, Clary begins a journey of self-discovery as she learns more about her past and what her future may hold.</description>
+                </program>
+                <program title="Grown-ish">
+                    <image>https://cdn1.edgedatg.com/aws/v2/abcf/grownish/showimages/5b5c4d155d206edc76e350c19ae805c2/227x303-Q80_5b5c4d155d206edc76e350c19ae805c2.jpg</image>
+                    <date>15.09.2022</date>
+                    <timeS>21.40</timeS>
+                    <timeF>22.00</timeF>
+                    <age>16+</age>
+                    <category>Show</category>
+                    <description>Follow Zoey Johnson as she heads to college and begins her hilarious journey to adulthood. From black-ish executive producer, Kenya Barris, comes a contemporary take on the current issues facing both students and administrators in the world of higher education.</description>
+                </program>
+            </programs>
+        </channel>
+    </channels>
+</root>
